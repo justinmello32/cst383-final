@@ -41,3 +41,5 @@ For future discussions, our team suggested for an improved project and something
 
 ## Summary
 In summary, our team was able to apply a lot of the techniques we learned this semester into this project and we were happy with our results. It was an interesting exercise to not only chart out statistics but to try to formulate answers based on our data. 
+
+A lot of lessons learned by this assignment but not only using correct techniques but also using the correct data. We took on a project that was probably well beyond the scope of this required assignment but our team felt that our initial results could lead to further research. Our team discussed that our data was based on one single year and our hypothesis was compared on those results.
