@@ -15,6 +15,14 @@ We collected 3 key pieces of data to help with our projects. We collected 3 comp
 A challenge with our dataset was to understand what data would be best to overall use to help us make better predictions. Our team also spent significant time understanding the data and what was available to us. Once our team felt comfortable with the dataset and believed we could accomplish our goal, we moved forward with our project.
 
 ## Methods
+To begin our project, we begun to import our data that our team decided on. We all felt that the most important part of starting a project was to fully understand the data that we were working with and to make sure we imported the correct information. To begin, we imported the data and then used df.info() and df.describe() to verify our data. We also were able to use our IDE tools to inspect additional data. 
+
+Furthermore, an additional step in our research was to verify that we didn't include any Nulls in our data. For the most part, our data was very complete after import and we were satisfied with everything that we had to work with. 
+
+Additional, we started to break out our columns a further to see what we were accurately working with. Most of our columns included overall rank, games played, mins played, field goals, field goal average, three pointers, three point average as well as offensive and defensive rebounds and blocks and points.
+Our team was able to plot a lot of this information to not only verify our data but to get a better understanding of what we were using to make further projections.
+
+
 
 
 ## Results
