@@ -22,7 +22,13 @@ Furthermore, an additional step in our research was to verify that we didn't inc
 Additional, we started to break out our columns a further to see what we were accurately working with. Most of our columns included overall rank, games played, mins played, field goals, field goal average, three pointers, three point average as well as offensive and defensive rebounds and blocks and points.
 Our team was able to plot a lot of this information to not only verify our data but to get a better understanding of what we were using to make further projections.
 
+Once we were complete with initial analysis we mainly plotted offensive rating with wins and loses to get a baseline of data. Obviously, we concluded that teams that were efficient on offense would essentially result in more wins for that individual team. Plotting this information was very beneficial because we could get a quick glance of estimated results.
 
+After plotting offensive results we were able to plot individual team wins to get more understanding of our data. We separated the data to plot two distinct graphs of not only team wins but only team loses. Using this technique allowed us to get a good gauge of team results. When we combined scatter plots we were able to visually see teams that were 500% and get a rough estimate of the overall league.
+
+We further used our data to use logistic regression to find team wins. We based this data using a few columns such as teamEFG, opptEFG, teamTO, opptTO, teamOREB, teamDREB, teamFTF, opptFTF and overall outcome. We further trained out data using train_test_split and created a logistic regression model. 
+
+Using the above techniques we were able to use a loss/win scenario and map individual results to IDs of our data.
 
 
 ## Results
