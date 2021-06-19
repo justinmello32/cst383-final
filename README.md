@@ -32,7 +32,15 @@ Using the above techniques we were able to use a loss/win scenario and map indiv
 
 
 ## Results
+Our results were consistent with what we expected in that we could use prediction models to get a better gauge of overall team win/losses. Although this research was based on existing results we were happy with our research and hope to expand on this in the future.
 
+Our overall goal moving forward is to use historical data from additional years to provide accurate projections for the future. Our team struggled with understanding the best way to do this since teams adjust each and every year so it was difficult to gauge how each team would do.
+
+Our team concluded that to provide better projections we would need to individually break down players and then combine those stats to each team to get more accurate projections. 
+
+Also, we spent a lot of time trying to get different results with different column stats so if we researched more years than we would have a better understanding moving forward.
+
+Moving forward, this was a challenging project and although we struggled with many aspects of this assignment, we also had good experiences with validating data and trying to predict wins/losses.
 
 ## Discussion
 The most interesting part of this project and something our group discussed in great detail is how we could apply data in this capacity to future seasons. From our dataset, we used previous historic data of the current season to set up a baseline of how we think each team should have done in the standings. In actuality, this approach should be done for future seasons to give predictions based off of unknown statistics. Although the challenge with this is that teams change per year, new players/coaches, and the statistics might not carry over directly.
